@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.token",
+      "type": "com.atnewline.utils.JwtHelper",
+      "sourceType": "com.atnewline.utils.JwtHelper"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.token.token-expiration",
+      "type": "java.lang.Long",
+      "sourceType": "com.atnewline.utils.JwtHelper"
+    },
+    {
+      "name": "jwt.token.token-sign-key",
+      "type": "java.lang.String",
+      "sourceType": "com.atnewline.utils.JwtHelper"
+    }
+  ],
+  "hints": []
+}
