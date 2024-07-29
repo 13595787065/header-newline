@@ -18,6 +18,7 @@ public class InterceptorConfig implements WebMvcConfigurer {
 
     //这是修改的内容11111111111111111111111
     // 这是xj2修改的内容1111111111111111111111122222222222
+    //这是master修改的内容
     @Autowired
     private UserInterceptor userInterceptor;
     /**
